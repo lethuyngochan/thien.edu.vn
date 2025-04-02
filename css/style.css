@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/*
+Theme Name: Healing Vibes
+Theme URI: https://healing-vibes.cmsmasters.net/
+Author: cmsmasters
+Author URI: https://cmsmasters.net/
+Description: Healing Vibes - Elementor WordPress theme created for Reiki and Energy Healing Practice websites. It has all the needed dedicated functionality that lets you easily set up a Holistic Wellness Center, Reiki Master & Practitioner website or Spiritual Retreats & Workshops events. It comes with custom post types to showcase the Courses and Specialists Profiles.
+Version: 1.1.0
+Tested up to: 6.6
+Requires PHP: 7.4
+License:
+License URI:
+Text Domain: healing-vibes
+Domain Path: /theme-config/languages
+Copyright: cmsmasters 2024 / All Rights Reserved
+Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+*/
+
+
+.sticky,
+.bypostauthor,
+.screen-reader-text {
+  outline: none;
+}
